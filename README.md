@@ -248,17 +248,11 @@ The project focuses on:
 
 ## 👨‍💻 Author
 
-**Eren**
+**Nirmaladevi S**
 
 Computer Science Engineering Student | Full-Stack Development | Java & Spring Boot
 
 GitHub: [@nirmala1610](https://github.com/nirmala1610)
-
----
-
-## 📄 License
-
-No license has been specified yet. Unless a license is added, the project remains subject to the default copyright rules. Add an appropriate `LICENSE` file if you want to explicitly permit reuse or modification.
 
 ---
 
