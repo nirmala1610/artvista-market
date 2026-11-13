@@ -1,0 +1,28 @@
+
+# Private ArtVista configuration
+/artvista-backend/src/main/resources/application.properties
+
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Build output
+dist/
+**/dist/
+target/
+**/target/
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# IDE files
+.idea/
+**/.idea/
+*.iml
+.vscode/
+.DS_Store
